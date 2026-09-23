@@ -1,6 +1,6 @@
 # Rafael Villegas — DESIGN.md
-Version: 1.0
-Date: 2026-09-20
+Version: 1.1
+Date: 2026-09-23
 Visibility: safe for public repository
 
 ## Design intent
@@ -9,7 +9,7 @@ The Rafael Villegas personal brand should communicate human depth, strategic cla
 It should never feel like generic motivational coaching, corporate consultancy stock imagery or an AI-tech brand.
 
 ## Core idea
-**CONCIENCIA · ACCIÓN · RESULTADOS**
+**CONSCIENCIA · ACCIÓN · RESULTADOS**
 
 ## Desired feeling
 - human
@@ -42,7 +42,13 @@ It should never feel like generic motivational coaching, corporate consultancy s
 
 ## Photography
 Prefer real conversations, facilitation, workshops, reflection, leadership and human interaction.
+The historical acervo includes real event/facilitation imagery; when rights and context are confirmed, prefer this evidence over generic stock.
 Avoid posed corporate handshakes, exaggerated success imagery and generic meditation stock.
+
+## Historical visual assets
+Exploratory/generated artwork and prior logo variants may be retained for traceability.
+They do not become canonical automatically.
+All new identity-bearing assets must use **Consciencia** with “sc”.
 
 ## Accessibility
 - AA contrast minimum
