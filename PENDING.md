@@ -1,20 +1,23 @@
 # PENDING.md
 
-Última actualización: 2026-09-20
+Última actualización: 2026-09-23
 
-Este archivo es el backlog operativo del proyecto.
-
-## P0 — Bloquea venta, producción o entrega
-- Recalibrar con el estado real más reciente del proyecto.
+## P0 — Bloquea seguridad o calidad
+- Migrar cualquier credencial detectada en el acervo a un gestor seguro; retirar el archivo inseguro solo tras validación humana.
+- No reutilizar públicamente claims, cifras, clientes o resultados sin evidencia verificable.
 
 ## P1 — Importante esta semana
-- Recalibrar con el estado real más reciente del proyecto.
+- Ingestar la carpeta de entrenamientos que Rafa subirá a Drive.
+- Crear Matriz de Canonicalidad V2: CANÓNICO / REUTILIZABLE / HISTÓRICO / ELIMINAR-TRAS-APROBACIÓN.
+- Confirmar duplicados candidatos antes de depurar.
+- Auditar y normalizar `Consciencia · Acción · Resultados` en activos futuros.
+- Mapear ADN de Ser para Crear y Servir, reVive, Semillas, C1 Despierta, Explora tus Raíces y Catálogo de Dinámicas.
 
 ## P2 — Mejora posterior
-- Recalibrar con el estado real más reciente del proyecto.
+- Transcribir y clasificar videos del banco RafaelVillegas.mx.
+- Etiquetar evidencia fotográfica por evento/fecha/contexto.
+- Consolidar banco visual canónico.
+- Evaluar reutilización editorial de Neverland.
 
 ## P3 — Ideas / exploración
-- Registrar aquí nuevas ideas para evitar interrumpir el cierre de P0/P1.
-
-## Regla
-Toda idea nueva entra aquí antes de desplazar una tarea ya priorizada.
+- Convertir el acervo maduro en biblioteca consultable por IA/Tulio con metadatos y permisos.
