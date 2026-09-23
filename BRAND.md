@@ -1,6 +1,6 @@
 # Rafael Villegas — BRAND.md
-Version: 1.0
-Date: 2026-09-20
+Version: 1.1
+Date: 2026-09-23
 Visibility: safe for public repository
 
 ## Professional identity
@@ -16,10 +16,10 @@ The differentiator is the intersection:
 **Desarrollo Humano + Estrategia + Tecnología + Inteligencia Artificial + Monetización**
 
 ## Philosophy
-**CONCIENCIA · ACCIÓN · RESULTADOS**
+**CONSCIENCIA · ACCIÓN · RESULTADOS**
 
 Recurring idea:
-**Conciencia sin acción es intención; acción sin conciencia es desgaste.**
+**Consciencia sin acción es intención; acción sin consciencia es desgaste.**
 
 Technology should release human capacity, not add bureaucracy.
 
@@ -52,3 +52,8 @@ Transformation and human/organizational evolution ecosystem.
 Digital architecture and operational transformation ecosystem.
 
 The personal brand can connect both worlds while preserving their distinct identities.
+
+## Historical material
+Older assets may contain previous naming, language or visual decisions.
+They are evidence of evolution, not automatic brand authority.
+New public assets follow the current canonical identity and must distinguish historical inspiration from approved brand rules.
