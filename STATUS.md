@@ -1,3 +1,12 @@
+## Actualización 2026-11-10 — RafaelVillegas.mx Discovery V1
+- **Decisión aprobada:** WordPress como plataforma base; WooCommerce como comercio central y Mercado Pago como pasarela objetivo; LMS para escuela y biblioteca, Skool/Hotmart por evaluar.
+- **UX aprobada:** visitante protagonista en tres descubrimientos, con cuatro caminos (vida, relaciones, negocio, aprendizaje), reflexión y próximo paso.
+- **Entrega técnica fuera de producción:** plugin WP `[rv_discovery]` V0.1.0 empaquetado y conservado en el expediente privado de BusinessOS. Sintaxis PHP y JS PASS; fuente del plugin todavía pendiente de sincronizar en este repositorio.
+- **Drive:** BusinessOS/Rafael_Villegas/RafaelVillegas.mx — Portal de Descubrimiento, documento de Arquitectura V1 y ZIP.
+- **WordPress:** conector WPVibe pendiente de aprobación del propietario en rafaelvillegas.mx; no se tocó producción. Plugins/tema y backups no inspeccionados.
+- **Próximo hito verificable:** confirmar conexión WPVibe, inventariar WP, validar logo canónico, probar shortcode en borrador/staging y ejecutar QA de navegación/móvil/accesibilidad.
+- **Enfoque:** biblioteca y descubrimiento primero; comercio y LMS por fases, sin publicidad de funciones no implementadas.
+
 # STATUS.md
 
 Última actualización: 2026-09-23
