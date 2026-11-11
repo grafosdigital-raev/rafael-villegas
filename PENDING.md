@@ -6,7 +6,7 @@
 ### P1 — Lanzamiento del primer valor
 - Inventario WordPress real: tema, versión, plugins, hosting/backups y staging; actualizar arquitectura si difiere de la intención.
 - Recuperar logo/ADN aprobados; seleccionar variante canónica entre archivos inventariados sin rediseñar por inferencia.
-- Versionar fuentes del plugin Discovery V0.1 en el repo; ZIP candidato ya está en Drive y se verificó sintaxis PHP/JS local.
+- **Resuelto en rama:** fuentes del plugin Discovery V0.1 versionadas en `wordpress/rv-discovery/`; ZIP candidato, HTML y capturas de QA disponibles en BusinessOS. Pendiente PR/revisión humana.
 - Instalar en borrador y QA: móvil, teclado, responsive, tema, Safari/Chrome, links y revisión editorial.
 - Curar ocho a doce recursos iniciales de biblioteca, con permisos y vigencia comprobados.
 
