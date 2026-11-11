@@ -1,3 +1,20 @@
+## Nuevos pendientes — 2026-11-10 — Portal de Descubrimiento
+### P0 — Seguridad / acceso
+- Rotar y migrar a bóveda segura las credenciales detectadas en documentos antiguos; no reproducir ni usarlas en agentes. Retiro de material sensible solo con revisión humana.
+- Completar autorización WPVibe en `rafaelvillegas.mx` y comprobar acceso en solo lectura antes de modificar WordPress.
+
+### P1 — Lanzamiento del primer valor
+- Inventario WordPress real: tema, versión, plugins, hosting/backups y staging; actualizar arquitectura si difiere de la intención.
+- Recuperar logo/ADN aprobados; seleccionar variante canónica entre archivos inventariados sin rediseñar por inferencia.
+- Versionar fuentes del plugin Discovery V0.1 en el repo; ZIP candidato ya está en Drive y se verificó sintaxis PHP/JS local.
+- Instalar en borrador y QA: móvil, teclado, responsive, tema, Safari/Chrome, links y revisión editorial.
+- Curar ocho a doce recursos iniciales de biblioteca, con permisos y vigencia comprobados.
+
+### P2 — Plataforma comercial y academia
+- Evaluar e instalar WooCommerce, plugin oficial Mercado Pago México y estructura de productos con vendedor/entidad fiscal; sandbox y conciliación E2E antes de cobros.
+- Evaluar LMS (Tutor LMS candidato), lanzar curso gratuito piloto y después acceso pagado E2E.
+- Definir si Skool y/o Hotmart aportan distribución complementaria, sin duplicar innecesariamente usuarios y contenidos.
+
 # PENDING.md
 
 Última actualización: 2026-09-23
