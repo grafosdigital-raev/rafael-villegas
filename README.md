@@ -238,7 +238,7 @@ La marca personal funciona como puente humano entre eXeT y Funnel-IA, pero conse
 
 ## 12. Reglas particulares
 
-- Principio: **CONCIENCIA · ACCIÓN · RESULTADOS**.
+- Principio: **Consciencia · Acción · Resultados**.
 - Evitar estética de "coach motivacional genérico".
 - Evitar estética de consultoría corporativa genérica.
 - Evitar convertir la marca personal en una startup de IA.
