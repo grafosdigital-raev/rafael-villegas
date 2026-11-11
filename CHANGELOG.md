@@ -1,3 +1,13 @@
+## 2026-11-10 — Inicio de RafaelVillegas.mx como portal WordPress
+- Rafa ratifica descubrimiento antes que biografía y WordPress como base de biblioteca, academia y checkout único basado en WooCommerce/Mercado Pago.
+- Verificada documentación canónica BRAND, DESIGN, PROJECT_CONTEXT, STATUS/PENDING; localizada carpeta BusinessOS/Rafael_Villegas y acervo histórico de 105 archivos + 5 subcarpetas.
+- Creado expediente privado de Drive «RafaelVillegas.mx — Portal de Descubrimiento» y documento de Arquitectura V1.
+- Construido ZIP candidato WordPress `rv-discovery-0.1.0.zip` (PHP, CSS, JS, README); sintaxis PHP y JS PASS. Conservado en Drive. No desplegado.
+- Conector WPVibe: se generó enlace de autorización; todavía no se ha acreditado conexión.
+- Iniciada rama `feature/rv-discovery-wordpress-v1-20261110`; agregada decisión arquitectónica pública-safe al repo.
+- Riesgo: documentación histórica con contraseñas en texto plano; no reutilizadas ni copiadas. Rotación y reparación pendientes.
+- **QA pendiente:** instalación WordPress, tema, móvil, accesibilidad, links, pagos, LMS. Sin cambios en producción.
+
 # CHANGELOG.md
 
 ## 2026-09-23
